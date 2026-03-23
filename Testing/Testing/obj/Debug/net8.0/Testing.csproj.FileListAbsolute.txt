@@ -1,0 +1,5 @@
+C:\Users\nicko\Desktop\Northcoders\testing002\testing002\Testing\Testing\obj\Debug\net8.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\Desktop\Northcoders\testing002\testing002\Testing\Testing\obj\Debug\net8.0\Testing.AssemblyInfoInputs.cache
+C:\Users\nicko\Desktop\Northcoders\testing002\testing002\Testing\Testing\obj\Debug\net8.0\Testing.AssemblyInfo.cs
+C:\Users\nicko\Desktop\Northcoders\testing002\testing002\Testing\Testing\obj\Debug\net8.0\Testing.csproj.CoreCompileInputs.cache
+C:\Users\nicko\Desktop\Northcoders\testing002\testing002\Testing\Testing\obj\Debug\net8.0\Testing.sourcelink.json
