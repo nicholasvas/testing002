@@ -1,3 +1,5 @@
+using System.Drawing;
+
 namespace TestCases
 {
     public class Tests
@@ -8,9 +10,15 @@ namespace TestCases
         }
 
         [Test]
-        public void Test1()
+        public void Testing_RotateMethod()
         {
-            Assert.Pass();
+
+            Compass myCompass = new Compass();
+            Point compassPosition = myCompass.Rotate(Point.NORTH, Direction.RIGHT);
+
+            compassPosition.ShouldBe(Point.EAST);
+
+
         }
     }
 }
