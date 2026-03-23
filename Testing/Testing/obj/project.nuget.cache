@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "FNC5mAaLV3E=",
+  "dgSpecHash": "hoVsaORe/iM=",
   "success": true,
   "projectFilePath": "C:\\Users\\nicko\\Desktop\\Northcoders\\testing002\\testing002\\Testing\\Testing\\Testing.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nicko\\.nuget\\packages\\diffengine\\11.3.0\\diffengine.11.3.0.nupkg.sha512",
+    "C:\\Users\\nicko\\.nuget\\packages\\emptyfiles\\4.4.0\\emptyfiles.4.4.0.nupkg.sha512",
+    "C:\\Users\\nicko\\.nuget\\packages\\fluentassertions\\8.9.0\\fluentassertions.8.9.0.nupkg.sha512",
+    "C:\\Users\\nicko\\.nuget\\packages\\shouldly\\4.3.0\\shouldly.4.3.0.nupkg.sha512",
+    "C:\\Users\\nicko\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\nicko\\.nuget\\packages\\system.management\\6.0.1\\system.management.6.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
